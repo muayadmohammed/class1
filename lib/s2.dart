@@ -69,7 +69,7 @@ class HomePage extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  width: 150,
+                  width: 120,
                   height: 150,
                   color: Colors.teal,
                 ),
